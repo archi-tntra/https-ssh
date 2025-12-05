@@ -19,3 +19,6 @@ I have generated SSH keys using this command:
         ssh-keygen -t ed25519 -C "your_email@example.com"
 
 After this command I opened Github and in Settings>SSH & GPG keys> Created New SSH KEY> Copied the public SSH key there.
+
+
+Practice
