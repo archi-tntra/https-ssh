@@ -21,4 +21,4 @@ I have generated SSH keys using this command:
 After this command I opened Github and in Settings>SSH & GPG keys> Created New SSH KEY> Copied the public SSH key there.
 
 
-Practice
+Practice authentication methods
