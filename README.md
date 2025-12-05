@@ -14,6 +14,10 @@ Also I created a new one and saved it. I want to see why it didnt ask me to ente
 
 
 SSH
+
 I am practicing to clone using SSH keys.
+
 I have generated SSH keys using this command:
         ssh-keygen -t ed25519 -C "your_email@example.com"
+
+After this command I opened Github and in Settings>SSH & GPG keys> Created New SSH KEY> Copied the public SSH key there.
