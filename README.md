@@ -1,17 +1,15 @@
 # https-ssh
 
-HTTPS
-
-Practice to clone repo using HTTPS
-
 From my Tntra gmail and username
 
-I tried cloning the repo using HTTPS
+HTTPS
 
-I deleted the existing Personal Access Token (PAT)
+Create the Personal Access token (PAT).
+Setting> Developer Settings> Personal Access token> Classic Token
 
-Also I created a new one and saved it. I want to see why it didnt ask me to enter the token when I was working on this repo.
+Saved the token generated token.
 
+Used the HTTPS url.
 
 SSH
 
